@@ -1,0 +1,4 @@
+SimpleITK>=5.0
+numpy>=1.19
+pandas>=1.0
+matplotlib>=3.3
